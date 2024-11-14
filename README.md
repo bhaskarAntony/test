@@ -1,2 +1,1 @@
-# test
-this is the test description about the repo
+this is the empty project
